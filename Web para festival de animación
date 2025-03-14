@@ -1,1 +1,276 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/varsi.css">
+  <link rel="stylesheet" href="css/stylei.css">
+  
+  
+  <style>
+   a,
+   button,
+   input,
+   select,
+   h1,
+   h2,
+   h3,
+   h4,
+   h5,
+   * {
+       box-sizing: border-box;
+       margin: 0;
+       padding: 0;
+       border: none;
+       text-decoration: none;
+       background: none;
+   
+       -webkit-font-smoothing: antialiased;
+   }
+   
+   menu, ol, ul {
+       list-style-type: none;
+       margin: 0;
+       padding: 0;
+   }
+   </style>
+  <title>Document</title>
+</head>
+<body>
+  <div
+    class="p-gina-inicial"
+    style="
+      background: url(img/p-gina-inicial.png) center;
+      background-size: cover;
+      background-repeat: no-repeat;
+    "
+  >
+    <div class="rectangle-1"></div>
+    <img class="a-1-removebg-preview-1" src="img/a-1-removebg-preview-10.png" /><a href="menú.html"</a>
+    <div class="click-en-kiki">click en kiki</div>
+    <div class="img/arrow-wrap-icon-svg-co"></div>
+    <img class="group" src="img/group0.svg" />
+    <div class="festival-de-animaci-n">
+      FESTIVAL
+      <br />
+      DE
+      <br />
+      ANIMACIÓN
+    </div>
+    <div class="de-estudio-ghibli">DE ESTUDIO GHIBLI</div>
+    <div
+      class="todos-los-derechos-reservados-al-copyright-oficial-de-estudio-ghibli-y-nippon-television-con-la-participaci-n-de-xunta-de-galicia-y-el-gobierno-de-espa-a-patrocinado-por-ifeco-fnac-espa-a-cabreiro-y-gadis"
+    >
+      Todos los derechos reservados al copyright oficial de Estudio Ghibli y
+      Nippon Television. Con la participación de Xunta de Galicia y el Gobierno de
+      España. Patrocinado por IFECO, FNAC España, Cabreiroá y Gadis
+    </div>
+    <img
+      class="logo-da-xunta-de-galicia-2021-svg-removebg-preview-1"
+      src="img/logo-da-xunta-de-galicia-2021-svg-removebg-preview-10.png"
+    />
+    <img class="green-removebg-preview-2" src="img/" />
+    <div class="nippon-tv-logo-2014-1">
+      <img class="layer-1" src="img/layer-10.svg" />
+    </div>
+    <img
+      class="govern-despanya-gobierno-de-espana-catala-logo-png-seeklogo-324548-removebg-preview-1"
+      src="img/govern-despanya-gobierno-de-espana-catala-logo-png-seeklogo-324548-removebg-preview-10.png"
+    />
+    <img class="cabreiroa-3-1" src="img/cabreiroa-3-10.png" />
+    <img class="fnac-logo-svg-1" src="img/fnac-logo-svg-10.png" />
+    <img
+      class="_24-c-709383-f-852-fbb-8-c-80-d-2-bdf-0-d-24-fb-1-1"
+      src="img/_24-c-709383-f-852-fbb-8-c-80-d-2-bdf-0-d-24-fb-1-10.png"
+    />
+    <img class="logo-icaa-4-x-1" src="img/logo-icaa-4-x-10.png" />
+  </div>
+  
+</body>
+</html>
 
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./vars.css">
+  <link rel="stylesheet" href="./style.css">
+  
+  
+  <style>
+   a,
+   button,
+   input,
+   select,
+   h1,
+   h2,
+   h3,
+   h4,
+   h5,
+   * {
+       box-sizing: border-box;
+       margin: 0;
+       padding: 0;
+       border: none;
+       text-decoration: none;
+       background: none;
+   
+       -webkit-font-smoothing: antialiased;
+   }
+   
+   menu, ol, ul {
+       list-style-type: none;
+       margin: 0;
+       padding: 0;
+   }
+   </style>
+  <title>Document</title>
+</head>
+<body>
+  <div class="p-gina-principal-men">
+    <div class="rectangle-6"></div>
+    <img
+      class="_2025-03-12-t-191643-678-removebg-preview-1"
+      src="img/_2025-03-12-t-191643-678-removebg-preview-10.png"
+    />
+    <img
+      class="kiki-s-delivery-service-pixel-art-pattern-removebg-preview-1"
+      src="img/kiki-s-delivery-service-pixel-art-pattern-removebg-preview-10.png"
+    />
+    <img
+      class="_2025-03-12-t-191451-299-removebg-preview-1-1"
+      src="img/_2025-03-12-t-191451-299-removebg-preview-1-10.png"
+    />
+    <a href="sobre.html"><img
+      class="ios-icon-removebg-preview-1"
+      src="img/ios-icon-removebg-preview-10.png"/></a>
+    <div class="rectangle-2"></div>
+    <div class="rectangle-3"></div>
+    <div class="rectangle-4"></div>
+    <div class="rectangle-5"></div>
+    <div class="sobre-el-festival">Sobre el festival</div>
+    <div class="contenidos">Contenidos</div>
+    <div class="programaci-n">Programación</div>
+    <div class="contacto">Contacto</div>
+    <img class="green-removebg-preview-1" src="img/green-removebg-preview-10.png" />
+    <div class="men">Menú</div>
+    <img class="a-1-removebg-preview-1" src="img/a-1-removebg-preview-10.png" />
+  </div>
+  
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./vars.css">
+  <link rel="stylesheet" href="./style.css">
+  
+  
+  <style>
+   a,
+   button,
+   input,
+   select,
+   h1,
+   h2,
+   h3,
+   h4,
+   h5,
+   * {
+       box-sizing: border-box;
+       margin: 0;
+       padding: 0;
+       border: none;
+       text-decoration: none;
+       background: none;
+   
+       -webkit-font-smoothing: antialiased;
+   }
+   
+   menu, ol, ul {
+       list-style-type: none;
+       margin: 0;
+       padding: 0;
+   }
+   </style>
+  <title>Document</title>
+</head>
+<body>
+  <div class="sobre-el-festival">
+    <div class="rectangle-9"></div>
+    <img class="green-removebg-preview-1" src="img/green-removebg-preview-10.png" />
+    <div class="rectangle-7"></div>
+    <div class="rectangle-8"></div>
+    <div class="under-menu-icon-svg-co">
+      <img class="group" src="group0.svg" />
+    </div>
+    <img
+      class="ios-icon-removebg-preview-1"
+      src="img/ios-icon-removebg-preview-10.png"
+    />
+    <div class="rectangle-10"></div>
+    <img class="ios-14-removebg-preview-1" src="img/ios-14-removebg-preview-10.png" />
+    <img class="vector" src="vector0.svg" />
+    <div class="sobre-el-festival2">Sobre el festival</div>
+    <div
+      class="el-festival-de-animaci-n-de-estudio-ghibli-abre-su-primera-edici-n-y-lo-har-en-a-coru-a-galicia-estudio-ghibli-es-una-famosa-compa-a-y-estudio-audiovisual-japon-s-conocido-por-uno-de-sus-principales-fundadores-y-reconocid-simo-artista-hayao-miyazaki-detr-s-del-ic-nico-estudio-est-n-pel-culas-de-animaci-n-ganadoras-de-m-ltiples-premios-menciones-reconocimiento-e-impacto-muy-famoso-en-el-mundo-desde-su-primera-pel-cula-nausica-del-valle-del-viento-1896-hasta-la-m-s-reciente-el-chico-y-la-garza-2024-todos-sus-trabajos-han-sido-un-referente-e-inspiraciones-mundiales-en-el-sector-de-la-animaci-n-es-por-esto-que-hemos-decidido-dedicarle-un-festival-entero-al-estudio-tan-grandioso-e-ic-nico-de-muchas-de-nuestras-pel-culas-favoritas-inf-rmate-sobre-todos-los-detalles-de-este-maravilloso-festival"
+    >
+      El festival de animación de Estudio Ghibli abre su primera edición y lo hará
+      en A Coruña, Galicia.
+      <br />
+      <br />
+      Estudio Ghibli es una famosa compañía y estudio audiovisual japonés conocido
+      por uno de sus principales fundadores y reconocidísimo artista; Hayao
+      Miyazaki.
+      <br />
+      Detrás del icónico estudio están películas de animación ganadoras de
+      múltiples premios, menciones, reconocimiento e impacto muy famoso en el
+      mundo. Desde su primera película, “Nausicaä del Valle del Viento” (1896),
+      hasta la más reciente, “El Chico y la Garza” (2024), todos sus trabajos han
+      sido un referente e inspiraciones mundiales en el sector de la animación.
+      <br />
+      <br />
+      Es por esto que hemos decidido dedicarle un festival entero al estudio tan
+      grandioso e icónico de muchas de nuestras películas favoritas.
+      <br />
+      <br />
+      Infórmate sobre todos los detalles de este maravilloso festival!
+    </div>
+    <img
+      class="_2025-03-13-t-165904-009-removebg-preview-1"
+      src="img/_2025-03-13-t-165904-009-removebg-preview-10.png"
+    />
+    <img
+      class="_2025-03-13-t-165946-597-removebg-preview-1"
+      src="img_2025-03-13-t-165946-597-removebg-preview-10.png"
+    />
+    <div class="rectangle-11"></div>
+    <div class="rectangle-12"></div>
+    <div class="rectangle-13"></div>
+    <div class="lugar-y-mapa">Lugar y mapa</div>
+    <div class="horarios">Horarios</div>
+    <div class="entradas">Entradas</div>
+  </div>
+  
+</body>
+</html>
